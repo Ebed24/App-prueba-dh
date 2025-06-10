@@ -13,7 +13,7 @@ st.set_page_config(
 # Cargar datos
 @st.cache_data
 def load_data():
-    return pd.read_csv('DH_G5_Players/G5_DH_Players.csv')
+    return pd.read_csv('DH_G5_PlayersG5_Players.csv')
 
 df = load_data()
 
