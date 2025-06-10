@@ -1,4 +1,4 @@
-# 📦 Streamlit App Starter Kit 
+# App de Scouting Para División de Honor Grupo 5
 ```
 ⬆️ (Replace above with your app's name)
 ```
